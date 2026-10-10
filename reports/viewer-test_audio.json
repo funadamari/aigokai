@@ -1,0 +1,15 @@
+{
+  "title": "音声あり／なし表示テスト",
+  "pages": [{
+      "page": 1,
+      "title": "音声あり",
+      "image": "https://funadamari.github.io/env/images/perished-fish-260817sl_1.jpg",
+      "audio": "https://funadamari.github.io/env/audio/perished-fish-260817sl_1.mp3"
+    },
+    {
+      "page": 2,
+      "title": "音声なし",
+      "image": "https://funadamari.github.io/aigokai/images/hist02_gomi.jpg",
+    }
+  ]
+}
