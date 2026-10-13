@@ -1,0 +1,54 @@
+{
+  "title": "愛護会の活動",
+  "pages": [{
+      "page": 1,
+      "title": "ゴミポタ（早朝のゴミ拾い）",
+      "image": "https://funadamari.github.io/aigokai/images/gomi01.jpg"
+    },
+    {
+      "page": 2,
+      "title": "ゴミポタ（「ふなだまり」のゴミの推移）",
+      "image": "https://funadamari.github.io/aigokai/images/gomi03_funadamari_gomi_transition.jpg"
+    },
+    {
+      "page": 3,
+      "title": "環境調査（ボート上から水質測定）",
+      "image": "https://funadamari.github.io/aigokai/images/kankyo01b.jpg"
+    },
+    {
+      "page": 4,
+      "title": "環境調査（測定地点）",
+      "image": "https://funadamari.github.io/aigokai/images/kankyo03_funadamari_chosa_point.jpg"
+    },
+    {
+      "page": 5,
+      "title": "公園維持（ベンチ下足元のえぐれ補修）",
+      "image": "https://funadamari.github.io/aigokai/images/iji01_bench.jpg"
+    },
+    {
+      "page": 6,
+      "title": "公園維持（ウッドデッキの定期的な再塗装）",
+      "image": "https://funadamari.github.io/aigokai/images/iji03_wooden-deck.jpg"
+    },
+    {
+      "page": 7,
+      "title": "太極拳（ウッドデッキでの稽古）",
+      "image": "https://funadamari.github.io/aigokai/images/taikyokuken01.jpg.jpg"
+    },
+    {
+      "page": 8,
+      "title": "太極拳（パーゴラでの稽古）",
+      "image": "https://funadamari.github.io/aigokai/images/taikyokuken01.jpg"
+    },
+    {
+      "page": 9,
+      "title": "地域交流（鶴の七夕祭りの準備）",
+      "image": "https://funadamari.github.io/aigokai/images/hist07_kouza.jpg"
+    },
+    {
+      "page": 10,
+      "title": "地域交流（公園愛護会を取り巻く環境）",
+      "image": "https://funadamari.github.io/aigokai/images/hist08_event02.jpg"
+    }
+  ]
+}

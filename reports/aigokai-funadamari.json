@@ -1,0 +1,44 @@
+{
+  "title": "ふなだまりはこんなところ",
+  "pages": [{
+      "page": 1,
+      "title": "街中の海辺",
+      "image": "https://funadamari.github.io/aigokai/images/funadamari01_umibe.jpg"
+    },
+    {
+      "page": 2,
+      "title": "希少な砂浜",
+      "image": "https://funadamari.github.io/aigokai/images/funadamari02_sunahama.jpg"
+    },
+    {
+      "page": 3,
+      "title": "様々な交流の場",
+      "image": "https://funadamari.github.io/aigokai/images/funadamari03_kouryu.jpg"
+    },
+    {
+      "page": 4,
+      "title": "釣り",
+      "image": "https://funadamari.github.io/aigokai/images/funadamari04_tsuri.jpg"
+    },
+    {
+      "page": 5,
+      "title": "野鳥観察",
+      "image": "https://funadamari.github.io/aigokai/images/funadamari05_yacho.jpg"
+    },
+    {
+      "page": 6,
+      "title": "干潟の生き物",
+      "image": "https://funadamari.github.io/aigokai/images/funadamari06_higata.jpg"
+    },
+    {
+      "page": 7,
+      "title": "祇園舟神事",
+      "image": "https://funadamari.github.io/aigokai/images/funadamari07_gionbune.jpg"
+    },
+    {
+      "page": 8,
+      "title": "富岡八幡宮",
+      "image": "https://funadamari.github.io/aigokai/images/funadamari08_hachimangu.jpg"
+    }
+  ]
+}

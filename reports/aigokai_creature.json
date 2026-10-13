@@ -1,0 +1,34 @@
+{
+  "title": "ふなだまりで見られる生き物",
+  "pages": [{
+      "page": 1,
+      "title": "水中",
+      "image": "https://funadamari.github.io/aigokai/images/zukan01_fish.jpg"
+    },
+    {
+      "page": 2,
+      "title": "付着生物",
+      "image": "https://funadamari.github.io/aigokai/images/zukan02_fuchaku.jpg"
+    },
+    {
+      "page": 3,
+      "title": "水上",
+      "image": "https://funadamari.github.io/aigokai/images/zukan03_suijo.jpg"
+    },
+    {
+      "page": 4,
+      "title": "干潟",
+      "image": "https://funadamari.github.io/aigokai/images/zukan04_higata.jpg"
+    },
+    {
+      "page": 5,
+      "title": "陸上",
+      "image": "https://funadamari.github.io/aigokai/images/zukan05_plants2.jpg"
+    },
+    {
+      "page": 6,
+      "title": "全体",
+      "image": "https://funadamari.github.io/aigokai/images/zukan06_creature.jpg"
+    }
+  ]
+}
