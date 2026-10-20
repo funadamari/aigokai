@@ -1,0 +1,46 @@
+{
+  "title": "ふなだまりで見られる生き物",
+  "pages": [{
+      "page": 1,
+      "title": "水中",
+      "image": "https://funadamari.github.io/aigokai/images/zukan01_fish.jpg",
+      "audio": "https://funadamari.github.io/aigokai/audio/zukan01_fish.mp3"
+    },
+    {
+      "page": 2,
+      "title": "付着生物",
+      "image": "https://funadamari.github.io/aigokai/images/zukan02_fuchaku.jpg",
+      "audio": "https://funadamari.github.io/aigokai/audio/zukan02_fuchaku.mp3"
+    },
+    {
+      "page": 3,
+      "type": "video",
+      "title": "付着生物（フジツボ）",
+      "video": "https://funadamari.github.io/aigokai/images/zukan02_fujitsubo.mp4"
+    },
+    {
+      "page": 4,
+      "title": "水上",
+      "image": "https://funadamari.github.io/aigokai/images/zukan03_suijo.jpg",
+      "audio": "https://funadamari.github.io/aigokai/audio/zukan03_suijo.mp3"
+    },
+    {
+      "page": 5,
+      "title": "干潟",
+      "image": "https://funadamari.github.io/aigokai/images/zukan04_higata.jpg",
+      "audio": "https://funadamari.github.io/aigokai/audio/zukan04_higata.mp3"
+    },
+    {
+      "page": 6,
+      "title": "陸上",
+      "image": "https://funadamari.github.io/aigokai/images/zukan05_plants2.jpg",
+      "audio": "https://funadamari.github.io/aigokai/audio/zukan05_plants2.mp3"
+    },
+    {
+      "page": 7,
+      "title": "全体",
+      "image": "https://funadamari.github.io/aigokai/images/zukan06_creature.jpg",
+      "audio": "https://funadamari.github.io/aigokai/audio/zukan06_creature.mp3"
+    }
+  ]
+}
